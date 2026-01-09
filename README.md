@@ -9,3 +9,5 @@ This is a demo project for IT begginer course. Application for managing employee
 ### To package the application, execute
 
     npm pack
+
+Application runs on port 3000
